@@ -1,0 +1,9 @@
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\bin\Release\GETHWID.exe
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\bin\Release\GETHWID.pdb
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\bin\Release\GETHWID.xml
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Release\GETHWID.Form1.resources
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Release\GETHWID.Resources.resources
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Release\GETHWID.vbproj.GenerateResource.Cache
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Release\GETHWID.exe
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Release\GETHWID.xml
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Release\GETHWID.pdb

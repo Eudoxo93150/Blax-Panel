@@ -1,0 +1,19 @@
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\bin\Debug\GETHWID.exe
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\bin\Debug\GETHWID.pdb
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\bin\Debug\GETHWID.xml
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\obj\x86\Debug\GETHWID.Form1.resources
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\obj\x86\Debug\GETHWID.Resources.resources
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\obj\x86\Debug\GETHWID.vbproj.GenerateResource.Cache
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\obj\x86\Debug\GETHWID.exe
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\obj\x86\Debug\GETHWID.xml
+C:\Users\Garzon\AppData\Local\Temporary Projects\GETHWID\obj\x86\Debug\GETHWID.pdb
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.exe
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.xml
+C:\Users\Garzon\documents\visual studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.pdb
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\bin\Debug\GETHWID.exe
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\bin\Debug\GETHWID.pdb
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\bin\Debug\GETHWID.xml
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.Form1.resources
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.Resources.resources
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.vbproj.GenerateResource.Cache
+C:\Users\Garzon\Documents\Visual Studio 2010\Projects\GETHWID\GETHWID\obj\x86\Debug\GETHWID.vbprojResolveAssemblyReference.cache

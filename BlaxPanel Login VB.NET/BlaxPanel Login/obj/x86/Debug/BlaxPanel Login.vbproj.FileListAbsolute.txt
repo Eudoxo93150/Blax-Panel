@@ -1,0 +1,12 @@
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\bin\Debug\BlaxPanel Login.exe
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\bin\Debug\BlaxPanel Login.pdb
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\bin\Debug\BlaxPanel Login.xml
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\obj\x86\Debug\BlaxPanel_Login.Form1.resources
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\obj\x86\Debug\BlaxPanel_Login.Resources.resources
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.vbproj.GenerateResource.Cache
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.exe
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.xml
+C:\Users\Garzon\AppData\Local\Temporary Projects\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.pdb
+C:\Users\Garzon\documents\visual studio 2010\Projects\BlaxPanel Login\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.exe
+C:\Users\Garzon\documents\visual studio 2010\Projects\BlaxPanel Login\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.xml
+C:\Users\Garzon\documents\visual studio 2010\Projects\BlaxPanel Login\BlaxPanel Login\obj\x86\Debug\BlaxPanel Login.pdb

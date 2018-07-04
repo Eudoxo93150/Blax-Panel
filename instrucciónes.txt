@@ -1,0 +1,11 @@
+Como Instalar
+1 - Crear una base de datos en phpMyAdmin llamada users
+2 - En la base de datos users crear una tabla con el nombre administration con 2 columnas llamadas username y password
+3 - Crear en la misma base de datos users una tabla con el nombre date y en esta crear 4 columnas con el nombre username, password, date, hwid
+4 - Ir ala carpeta BlaxPanel y poner los credenciales de la base de datos en los siguentes archivos db.php, home.php, index.php, Register.php y session.php
+
+NOTA:
+en la tabla administration van los usuarios que podran ingresar al panel.
+en la tabla date van los usuarios vips
+
+SALUDOS!!
